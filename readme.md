@@ -1,3 +1,9 @@
+# Страница запросов к Green API
+
+Исходная страница с запросами API
+
+[Запросы к Green API](https://kobdik.github.io/Green/green.html)
+
 # Скриншоты запросов к Green API
 
 Вход в Instance (привязка к Telegram)
